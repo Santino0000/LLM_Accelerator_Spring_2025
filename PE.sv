@@ -2,9 +2,10 @@
 
 /* 
 * Processing Element (PE) Module
-* Created By: Jordi Marcial Cruz
+* Created By: Tyler Allen, Santino DeAngelis, Darrence Diza, Aiden Gumpper, John Leahy, Jordi Marcial Cruz
 * Project: LLM Accelerator 
-* Updated: November 10, 2024
+* Updated: January 30, 2025
+* This revision functions for the Xilinx Zynq, utilizing the Vivado IP Cores.  
 *
 * Description:
 * This module implements a single Processing Element (PE) for a Systolic Array. 
