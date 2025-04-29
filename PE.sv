@@ -4,7 +4,7 @@
 * Processing Element (PE) Module
 * Created By: Tyler Allen, Santino DeAngelis, Darrence Diza, Aiden Gumpper, John Leahy, Jordi Marcial Cruz
 * Project: LLM Accelerator 
-* Updated: January 30, 2025
+* Updated: February 4, 2025
 * This revision functions for the Xilinx Zynq, utilizing the Vivado IP Cores.  
 *
 * Description:
