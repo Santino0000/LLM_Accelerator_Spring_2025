@@ -5,7 +5,9 @@ Project done by students at Rowan University under PI Yashwant Sinha during the 
 
 ## Main Branch
 The main branch contains two demos utilized to determine the functionality of the Microchip SoC.
+
 DDR Demo: Stress tests the DDR memory and controller and reports any errors
+
 Assembly Demo: Tests the functionality of in-line assembly on the FPGA
 
 ## Other branches
